@@ -1,0 +1,6 @@
+SYNTHETIC EXAMPLE — created for this portfolio, not a real interview.
+
+Researcher: What would improve your current workflow?
+Participant 02: A spreadsheet export would save me from retyping the results.
+Researcher: What would you need before sharing the tool with your team?
+Participant 02: I would need separate viewer and editor permissions, so only the right people can change a report.

@@ -1,0 +1,6 @@
+SYNTHETIC EXAMPLE — created for this portfolio, not a real interview.
+
+Researcher: What makes an analytics tool difficult to use?
+Participant 01: I copy results into spreadsheets every week. I want an export button that keeps the column names.
+Researcher: What would make a recommendation easier to review?
+Participant 01: Show the source for each recommendation. I need to check where the information came from.

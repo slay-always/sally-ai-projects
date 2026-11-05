@@ -1,0 +1,5 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#6495ED"/>
+  <!-- 使用绝对坐标 256 代替 50%，因为部分安卓系统解析器不识别百分比 -->
+  <text x="256" y="265" font-family="Inter, system-ui, -apple-system, Arial, sans-serif" font-weight="900" font-size="160" fill="white" text-anchor="middle" dominant-baseline="central">S</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "Slay Mandarin - ver 4",
+  "description": "The ultimate AI-powered Chinese learning platform to help you slay your language goals with style and cultural nuance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
