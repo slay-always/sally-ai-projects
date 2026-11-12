@@ -12,5 +12,3 @@ I am a human-AI interaction researcher with consulting experience who builds AI 
 Slay Mandarin was previously deployed to Cloudflare. Its Gemini features are currently inactive following API-key deactivation. The source is included so the implementation can be inspected without an active API key.
 
 The interview notebook preserves selected parts of the original Colab workflow. Private interviews, client reports, credentials, and identifying examples are excluded. The included transcripts are explicitly fictional examples created during portfolio preparation.
-
-These projects demonstrate application and workflow development with existing AI services. They do not claim model training, production-scale reliability, validated learning gains, or measured time savings. See [preparation and verification notes](PREPARATION.md) for the scope of the local checks and changes made for sharing.
